@@ -18,4 +18,4 @@
    <li>https://physics.weber.edu/schroeder/scicomp/PythonManual.pdf</li>  
 </ul>
 <br>
-<p> Deixei um exemplo de como o método de euler-cromer pode ser usado no /misc/euler_aplicado/main.py
+<p> Deixei um exemplo de como o método euler-cromer pode ser usado no /misc/euler_aplicado/main.py
